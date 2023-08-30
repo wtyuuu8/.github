@@ -5,12 +5,6 @@
 </p>
 <h1 align="center">DevTech Services</h1>
 
-
-
-<p align="center">
-  <em>Darian on top.</em>
-</p>
-
 <p align="center">
 
 ## 🚀 About Us
