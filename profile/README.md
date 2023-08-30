@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dariandev.com">
-    <img alt="DevTech Services" src="theDevs.png?raw=true">
+    <img alt="DevTech Services" src="https://github.com/DevTech-Services/.github/blob/main/profile/theDevs.png?raw=true">
   </a>
 </p>
 <h1 align="center">DevTech Services</h1>
